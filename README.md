@@ -8,7 +8,7 @@ I'm sitthinon sutkaew (Plankton) study at Nakhonthai School Grade 10 Age 16-17
 
 * 🌍  I'm based in Bangkok
 * 🖥️  See my portfolio at [AboutSutkaew (Thai language)](http://https://about-sutkaew.vercel.app)
-* ✉️  You can contact me at [actcementmajor@gmail.com](mailto:actcementmajor@gmail.com)
+* ✉️  You can contact me at [Actcementmajor@gmail.com](mailto:actcementmajor@gmail.com)
 * 🧠  I'm currently learning Machine learning & Software Engineering
 
 <p align="left">
