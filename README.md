@@ -27,9 +27,9 @@
 
 ```yaml
 name     : Sitthinon Sutkaew
-alias    : "Plankton" 🪸
+alias    : "Plankton" 🐈‍⬛
 age      : 16-17 y/o
-location : Phitsanulok, Thailand 🇹🇭
+location : Phitsanulok, Thailand 
 school   : Nakhonthai School — Grade 10
 role     : Backend Developer & Game Systems Engineer
 status   : [ ONLINE ] — Building something cool rn
