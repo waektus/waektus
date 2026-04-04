@@ -21,6 +21,8 @@
 
 ---
 
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC" />
+
 ### `> whoami`
 
 ```yaml
@@ -40,6 +42,8 @@ Backend systems that don't break.
 Games that feel alive.
 Code that speaks for itself.
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -147,13 +151,13 @@ PID   PROCESS                          CPU%   STATUS
 
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=waektus&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&sideLabels=AAAAAA&dates=666666" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&text_color=CCCCCC&cache_seconds=86400" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waektus&theme=matrix&no-frame=true&column=7&margin-w=8" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waektus&bg_color=0D0D0D&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
