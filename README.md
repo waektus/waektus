@@ -9,7 +9,7 @@
                               ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+Backend+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Backend+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+Backend+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Full-Stack+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
 
 <br/>
 
@@ -53,6 +53,9 @@ Code that speaks for itself.
 
 <table>
 <tr>
+<td align="center" colspan="5"><sub>— ◈ LANGUAGES —</sub></td>
+</tr>
+<tr>
 <td align="center" width="130">
 <img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub><b>C</b></sub>
 </td>
@@ -70,28 +73,37 @@ Code that speaks for itself.
 </td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
-</td>
+<td align="center" colspan="5"><sub>— ◈ BACKEND & INFRASTRUCTURE —</sub></td>
+</tr>
+<tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub>
 </td>
-</tr>
-<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=redis" width="48"/><br/><sub><b>Redis</b></sub>
+</td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub>
 </td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub><b>Figma</b></sub>
+<img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/><sub><b>Nginx</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center" colspan="5"><sub>— ◈ TOOLS & ENVIRONMENT —</sub></td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=bash" width="48"/><br/><sub><b>Bash</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
 </td>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=blender" width="48"/><br/><sub><b>Blender</b></sub>
@@ -99,9 +111,22 @@ Code that speaks for itself.
 <td align="center">
 <img src="https://skillicons.dev/icons?i=ps" width="48"/><br/><sub><b>Photoshop</b></sub>
 </td>
+</tr>
+<tr>
+<td align="center" colspan="5"><sub>— ◈ FRONTEND (light touch) —</sub></td>
+</tr>
+<tr>
+<td align="center" colspan="1"></td>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub>
 </td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center" colspan="1"></td>
 </tr>
 </table>
 
