@@ -1,85 +1,161 @@
-# 👋 Hi, I'm Sitthinon Sutkaew (Plankton)! 🇹🇭
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D1FF&center=true&vCenter=true&width=700&lines=Backend+Developer+%26+Game+Dev;Specializing+in+Lua+%26+Modern+Web;Grade+10+Student+%40Nakhonthai+School;Building+the+Future+with+Code" alt="Typing SVG" />
+
+```
+██████╗ ██╗      █████╗ ███╗   ██╗██╗  ██╗████████╗ ██████╗ ███╗   ██╗
+██╔══██╗██║     ██╔══██╗████╗  ██║██║ ██╔╝╚══██╔══╝██╔═══██╗████╗  ██║
+██████╔╝██║     ███████║██╔██╗ ██║█████╔╝    ██║   ██║   ██║██╔██╗ ██║
+██╔═══╝ ██║     ██╔══██║██║╚██╗██║██╔═██╗    ██║   ██║   ██║██║╚██╗██║
+██║     ███████╗██║  ██║██║ ╚████║██║  ██╗   ██║   ╚██████╔╝██║ ╚████║
+╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+Backend+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Full-Stack+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-about--sutkaew.vercel.app-00FFB3?style=for-the-badge&labelColor=0D0D0D&color=00FFB3)](https://about-sutkaew.vercel.app)
+&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=waektus&color=00FFB3&style=for-the-badge&label=VISITORS)](https://github.com/waektus)
+
 </div>
 
 ---
 
-## 🚀 My Featured Portfolio
-<div align="center">
-  <a href="https://about-sutkaew.vercel.app" target="_blank">
-    <img src="https://api.microlink.io/?url=https%3A%2F%2Fabout-sutkaew.vercel.app&screenshot=true&embed=screenshot.url" width="90%" style="border-radius: 10px; border: 2px solid #00D1FF;" alt="About Sutkaew Portfolio" />
-    <br />
-    <b>🌐 Explore My Work: about-sutkaew.vercel.app</b>
-  </a>
-</div>
+<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC" />
+
+### `> whoami`
+
+```yaml
+name     : Sitthinon Sutkaew
+alias    : "Plankton" 🪸
+age      : 16-17 y/o
+location : Phitsanulok, Thailand 🇹🇭
+school   : Nakhonthai School — Grade 10
+role     : Backend Developer & Game Systems Engineer
+status   : [ ONLINE ] — Building something cool rn
+```
+
+### `> cat mission.txt`
+
+```
+Backend systems that don't break.
+Games that feel alive.
+Code that speaks for itself.
+```
+
+<br clear="right"/>
 
 ---
 
-## 🎭 About Me
+### `> ls -la /skills`
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📖 My Story</h3>
-      Hi there! I'm <b>Plankton</b>, a 16-17 year old developer currently studying at <b>Nakhonthai School (Grade 10)</b>. 
-      I am deeply passionate about coding, specifically focusing on robust <b>Backend Systems</b> and creating interactive worlds through <b>Game Development</b>.
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 Current Focus</h3>
-      <ul>
-        <li>🤖 <b>Machine Learning:</b> Exploring AI and data models.</li>
-        <li>🏗️ <b>Software Engineering:</b> Learning scalable architecture.</li>
-        <li>🎮 <b>Luau Scripting:</b> Advanced game logic on Roblox.</li>
-      </ul>
-    </td>
-  </tr>
+<div align="center">
+
+<table>
+<tr>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub><b>C</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub><b>C++</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub>
+</td>
+<td align="center" width="130">
+<img src="https://skillicons.dev/icons?i=lua" width="48"/><br/><sub><b>Lua / Luau</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub>
+</td>
+</tr>
+<tr>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub><b>Figma</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=blender" width="48"/><br/><sub><b>Blender</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=ps" width="48"/><br/><sub><b>Photoshop</b></sub>
+</td>
+<td align="center">
+<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
+</td>
+</tr>
 </table>
 
----
-
-## 🛠️ My Tech Toolbox
-
-<div align="center">
-
-| Category | Tools & Languages |
-| :--- | :--- |
-| **Languages** | ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white) ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/-Java-ED8B00?logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) ![Lua](https://img.shields.io/badge/-Lua-2C2D72?logo=lua&logoColor=white) |
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) |
-| **Creative** | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?logo=blender&logoColor=white) ![Photoshop](https://img.shields.io/badge/-Photoshop-31A8FF?logo=adobe-photoshop&logoColor=white) |
-
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+### `> htop — current processes`
+
+```
+PID   PROCESS                          CPU%   STATUS
+───────────────────────────────────────────────────────
+001   machine_learning_exploration     ████░░░░  [LEARNING]
+002   software_architecture_studies    ███░░░░░  [ONGOING]
+003   luau_advanced_scripting          █████░░░  [ACTIVE]
+004   full_stack_projects              ██████░░  [BUILDING]
+```
+
+---
+
+### `> cat analytics.log`
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waektus&theme=dracula&no-frame=true&column=7" alt="Trophies" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waektus&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&sideLabels=AAAAAA&dates=666666" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&text_color=CCCCCC" width="49%" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=waektus&theme=matrix&no-frame=true&column=7&margin-w=5" width="100%" />
 </div>
 
 ---
 
-## 📊 Analytics & Stats
+### `> ping --connect`
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=tokyonight" alt="Top Languages" height="170px" />
+
+[![Website](https://img.shields.io/badge/◈_WEBSITE-00FFB3?style=for-the-badge&logoColor=0D0D0D&logo=vercel&labelColor=0D0D0D)](https://about-sutkaew.vercel.app)
+[![Facebook](https://img.shields.io/badge/◈_FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D0D0D)](https://www.facebook.com/sitthinon.sutkeaw)
+[![Discord](https://img.shields.io/badge/◈_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D)](https://discord.com/users/sigmaboy402)
+[![Email](https://img.shields.io/badge/◈_EMAIL-FF4444?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:Actcementmajor@gmail.com)
+
 </div>
 
 ---
-
-## 🤝 Let's Connect
-<p align="center">
-  <a href="https://about-sutkaew.vercel.app"><img src="https://img.shields.io/badge/Website-00D1FF?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://www.facebook.com/sitthinon.sutkeaw"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-  <a href="https://discord.com/users/sigmaboy402"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="mailto:Actcementmajor@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-  <br />
-  <b>Profile Visitors</b><br />
-  <img src="https://komarev.com/ghpvc/?username=waektus&color=00D1FF&style=flat-square" alt="Profile Views" />
+  <br/><br/>
+  
+  ```
+  [ SESSION TERMINATED ] — Thanks for stopping by. See you on the other side. 🌐
+  ```
+
 </div>
