@@ -9,7 +9,7 @@
 ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+Backend+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Full-Stack+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+Backend+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Backend+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
 
 <br/>
 
@@ -150,14 +150,14 @@ PID   PROCESS                          CPU%   STATUS
 ### `> cat analytics.log`
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waektus&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&sideLabels=AAAAAA&dates=666666" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&text_color=CCCCCC" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=waektus&theme=dark&hide_border=true&background=0D0D0D&stroke=00FFB3&ring=00FFB3&fire=FF6B6B&currStreakLabel=00FFB3&sideLabels=AAAAAA&dates=666666" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&text_color=CCCCCC&cache_seconds=86400" width="49%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=waektus&theme=matrix&no-frame=true&column=7&margin-w=5" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waektus&bg_color=0D0D0D&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" width="100%" />
 </div>
 
 ---
