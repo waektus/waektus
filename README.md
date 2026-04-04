@@ -21,8 +21,6 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC" />
-
 ### `> whoami`
 
 ```yaml
@@ -42,8 +40,6 @@ Backend systems that don't break.
 Games that feel alive.
 Code that speaks for itself.
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -157,7 +153,7 @@ PID   PROCESS                          CPU%   STATUS
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waektus&bg_color=0D0D0D&color=00FFB3&line=00FFB3&point=FFFFFF&area=true&hide_border=true" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=waektus&theme=matrix&no-frame=true&column=7&margin-w=8" width="100%" />
 </div>
 
 ---
