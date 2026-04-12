@@ -51,60 +51,21 @@ Code that speaks for itself.
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center" colspan="7"><sub>— ◈ TECH STACK & SKILLS —</sub></td>
-</tr>
-<tr>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=ts)" width="48"/><br/><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=react)" width="48"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=nextjs)" width="48"/><br/><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=nodejs)" width="48"/><br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=python)" width="48"/><br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=tailwind)" width="48"/><br/><sub><b>Tailwind CSS</b></sub>
-</td>
-<td align="center" width="100">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=postgres)" width="48"/><br/><sub><b>PostgreSQL</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=docker)" width="48"/><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=wasm)" width="48"/><br/><sub><b>Assembly</b></sub>
-</td>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=cpp)" width="48"/><br/><sub><b>C++</b></sub>
-</td>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=cs)" width="48"/><br/><sub><b>C#</b></sub>
-</td>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=php)" width="48"/><br/><sub><b>PHP</b></sub>
-</td>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=java)" width="48"/><br/><sub><b>Java</b></sub>
-</td>
-<td align="center">
-<img src="[skillicons.dev](https://skillicons.dev/icons?i=lua)" width="48"/><br/><sub><b>Lua</b></sub>
-</td>
-</tr>
-</table>
+<sub>— ◈ LANGUAGES & FRAMEWORKS —</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,python,tailwind,postgres,docker,cpp,cs,php,java,lua&perline=7" />
+
+<br/><br/>
+
+<sub>— ◈ TOOLS & DESIGN —</sub>
+
+<br/><br/>
+
+<img src="https://skillicons.dev/icons?i=ps,blender,figma,ai,ae,vscode,git,github,linux,vercel&perline=5" />
 
 </div>
-
 
 ---
 
