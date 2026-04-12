@@ -53,84 +53,80 @@ Code that speaks for itself.
 
 <table>
 <tr>
-<td align="center" colspan="5"><sub>— ◈ LANGUAGES —</sub></td>
+<td align="center" colspan="7"><sub>— ◈ TECH STACK & SKILLS —</sub></td>
 </tr>
 <tr>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=c" width="48"/><br/><sub><b>C</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=ts)" width="48"/><br/><sub><b>TypeScript</b></sub>
 </td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub><b>C++</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=react)" width="48"/><br/><sub><b>React</b></sub>
 </td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=nextjs)" width="48"/><br/><sub><b>Next.js</b></sub>
 </td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=nodejs)" width="48"/><br/><sub><b>Node.js</b></sub>
 </td>
-<td align="center" width="130">
-<img src="https://skillicons.dev/icons?i=lua" width="48"/><br/><sub><b>Lua / Luau</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=python)" width="48"/><br/><sub><b>Python</b></sub>
 </td>
-</tr>
-<tr>
-<td align="center" colspan="5"><sub>— ◈ BACKEND & INFRASTRUCTURE —</sub></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=tailwind)" width="48"/><br/><sub><b>Tailwind CSS</b></sub>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=redis" width="48"/><br/><sub><b>Redis</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nginx" width="48"/><br/><sub><b>Nginx</b></sub>
+<td align="center" width="100">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=postgres)" width="48"/><br/><sub><b>PostgreSQL</b></sub>
 </td>
 </tr>
 <tr>
-<td align="center" colspan="5"><sub>— ◈ TOOLS & ENVIRONMENT —</sub></td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=docker)" width="48"/><br/><sub><b>Docker</b></sub>
+</td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=wasm)" width="48"/><br/><sub><b>Assembly</b></sub>
+</td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=cpp)" width="48"/><br/><sub><b>C++</b></sub>
+</td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=cs)" width="48"/><br/><sub><b>C#</b></sub>
+</td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=php)" width="48"/><br/><sub><b>PHP</b></sub>
+</td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=java)" width="48"/><br/><sub><b>Java</b></sub>
+</td>
+<td align="center">
+<img src="[skillicons.dev](https://skillicons.dev/icons?i=lua)" width="48"/><br/><sub><b>Lua</b></sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+<td align="center" colspan="4"><sub>— ◈ INTERESTS —</sub></td>
 </tr>
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
+<td align="center" width="150">
+<sub>💻</sub><br/><b>Coding</b>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=bash" width="48"/><br/><sub><b>Bash</b></sub>
+<td align="center" width="150">
+<sub>🎮</sub><br/><b>Gaming</b>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
+<td align="center" width="150">
+<sub>🤖</sub><br/><b>AI</b>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=blender" width="48"/><br/><sub><b>Blender</b></sub>
+<td align="center" width="150">
+<sub>🎹</sub><br/><b>Piano</b>
 </td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ps" width="48"/><br/><sub><b>Photoshop</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="5"><sub>— ◈ FRONTEND (light touch) —</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="1"></td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" colspan="1"></td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
