@@ -103,28 +103,6 @@ Code that speaks for itself.
 </tr>
 </table>
 
-<br/>
-
-<table>
-<tr>
-<td align="center" colspan="4"><sub>— ◈ INTERESTS —</sub></td>
-</tr>
-<tr>
-<td align="center" width="150">
-<sub>💻</sub><br/><b>Coding</b>
-</td>
-<td align="center" width="150">
-<sub>🎮</sub><br/><b>Gaming</b>
-</td>
-<td align="center" width="150">
-<sub>🤖</sub><br/><b>AI</b>
-</td>
-<td align="center" width="150">
-<sub>🎹</sub><br/><b>Piano</b>
-</td>
-</tr>
-</table>
-
 </div>
 
 
