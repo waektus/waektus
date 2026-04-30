@@ -80,11 +80,11 @@ Code that speaks for itself.
 - MySQL
 - MongoDB
 - Firebase
-- (PostgreSQL — รวมไว้ถ้าต้องการ)
+- PostgreSQL
 
 ## Real-time Communication
 - Firebase (Realtime / Firestore)
-- (สามารถเพิ่ม: WebSockets, Socket.IO, gRPC ฯลฯ)
+- WebSocket (Realtime)
 
 ## DevOps & Infrastructure
 - Git
