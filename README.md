@@ -49,75 +49,19 @@ Code that speaks for itself.
 
 # Tech Stack
 
-## Languages & Runtimes
-- JavaScript
-- TypeScript
-- Python
-- Golang
-- C++
-- Lua
-- PHP
-- Bun
-
-## Frontend Frameworks
-- React
-- Vue.js
-- Next.js
-- Vite
-
-## CSS Frameworks
-- Tailwind CSS
-- Bootstrap
-- DaisyUI
-- MUI (Material UI)
-
-## Backend Frameworks
-- Node.js
-- Express.js
-- Django
-
-## Database & ORM
-- MySQL
-- MongoDB
-- Firebase
-- PostgreSQL
-
-## Real-time Communication
-- Firebase (Realtime / Firestore)
-- WebSocket (Realtime)
-
-## DevOps & Infrastructure
-- Git
-- Docker
-- Vercel
-- Netlify
-- Nginx
-- Cloudflare
-- AWS
-
-## Operating Systems
-- Linux
-- Ubuntu
-- Windows
-
-## Design & Tools
-- Figma
-- Photoshop
-- Postman
-- Blender
-- VS Code
-- GitHub
-
-## Game Engines & 3D Tools
-- Unity
-- Unreal Engine
-- Godot
-- Blender
-
-## IoT & Hardware
-- Arduino
-- ESP32
-- Raspberry Pi
+| Category | Technologies |
+|:---|:---|
+|  **Languages** | JavaScript · TypeScript · Python · Golang · C++ · Lua · PHP · Bun |
+|  **Frontend** | React · Vue.js · Next.js · Vite |
+|  **CSS / UI** | Tailwind CSS · Bootstrap · DaisyUI · MUI |
+|  **Backend** | Node.js · Express.js · Django |
+|  **Database & ORM** | MySQL · MongoDB · Firebase · PostgreSQL |
+|  **Real-time** | Firebase Realtime/Firestore · WebSocket |
+|  **DevOps & Infra** | Git · Docker · Vercel · Netlify · Nginx · Cloudflare · AWS |
+|  **Operating Systems** | Linux · Ubuntu · Windows |
+|  **Design & Tools** | Figma · Photoshop · Postman · Blender · VS Code · GitHub |
+|  **Game Engines** | Unity · Unreal Engine · Godot · Blender |
+|  **IoT & Hardware** | Arduino · ESP32 · Raspberry Pi |
 </div>
 
 ---
