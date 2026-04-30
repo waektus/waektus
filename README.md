@@ -74,7 +74,7 @@ Code that speaks for itself.
 ## Backend Frameworks
 - Node.js
 - Express.js
-- (เพิ่มเติมได้ตามภาษา: Django / FastAPI / Gin ฯลฯ)
+- Django
 
 ## Database & ORM
 - MySQL
