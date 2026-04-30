@@ -47,93 +47,77 @@ Code that speaks for itself.
 
 ---
 
-### `> ls -la /skills`
+# Tech Stack
 
-<div align="center">
+## Languages & Runtimes
+- JavaScript
+- TypeScript
+- Python
+- Golang
+- C++
+- Lua
+- PHP
+- Bun
 
-<table>
-<tr>
-<td align="center" colspan="13"><sub>— ◈ LANGUAGES & FRAMEWORKS —</sub></td>
-</tr>
-<tr>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=ts" width="48"/><br/><sub><b>TypeScript</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=react" width="48"/><br/><sub><b>React</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48"/><br/><sub><b>Next.js</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=nodejs" width="48"/><br/><sub><b>Node.js</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=python" width="48"/><br/><sub><b>Python</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/><sub><b>Tailwind</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=postgres" width="48"/><br/><sub><b>PostgreSQL</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=docker" width="48"/><br/><sub><b>Docker</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=cpp" width="48"/><br/><sub><b>C++</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=cs" width="48"/><br/><sub><b>C#</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=php" width="48"/><br/><sub><b>PHP</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=java" width="48"/><br/><sub><b>Java</b></sub>
-</td>
-<td align="center" width="80">
-<img src="https://skillicons.dev/icons?i=lua" width="48"/><br/><sub><b>Lua</b></sub>
-</td>
-</tr>
-<tr>
-<td align="center" colspan="13"><sub>— ◈ TOOLS & DESIGN —</sub></td>
-</tr>
-<tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ps" width="48"/><br/><sub><b>Photoshop</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=blender" width="48"/><br/><sub><b>Blender</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=figma" width="48"/><br/><sub><b>Figma</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ai" width="48"/><br/><sub><b>Illustrator</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=ae" width="48"/><br/><sub><b>After Effects</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vscode" width="48"/><br/><sub><b>VS Code</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=git" width="48"/><br/><sub><b>Git</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=github" width="48"/><br/><sub><b>GitHub</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=linux" width="48"/><br/><sub><b>Linux</b></sub>
-</td>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=vercel" width="48"/><br/><sub><b>Vercel</b></sub>
-</td>
-<td align="center" colspan="3"></td>
-</tr>
-</table>
+## Frontend Frameworks
+- React
+- Vue.js
+- Next.js
+- Vite
 
+## CSS Frameworks
+- Tailwind CSS
+- Bootstrap
+- DaisyUI
+- MUI (Material UI)
+
+## Backend Frameworks
+- Node.js
+- Express.js
+- (เพิ่มเติมได้ตามภาษา: Django / FastAPI / Gin ฯลฯ)
+
+## Database & ORM
+- MySQL
+- MongoDB
+- Firebase
+- (PostgreSQL — รวมไว้ถ้าต้องการ)
+
+## Real-time Communication
+- Firebase (Realtime / Firestore)
+- (สามารถเพิ่ม: WebSockets, Socket.IO, gRPC ฯลฯ)
+
+## DevOps & Infrastructure
+- Git
+- Docker
+- Vercel
+- Netlify
+- Nginx
+- Cloudflare
+- AWS
+
+## Operating Systems
+- Linux
+- Ubuntu
+- Windows
+
+## Design & Tools
+- Figma
+- Photoshop
+- Postman
+- Blender
+- VS Code
+- GitHub
+
+## Game Engines & 3D Tools
+- Unity
+- Unreal Engine
+- Godot
+- Blender
+
+## IoT & Hardware
+- Arduino
+- ESP32
+- Raspberry Pi
 </div>
 
 ---
