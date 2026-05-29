@@ -13,7 +13,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-about--sutkaew.vercel.app-00FFB3?style=for-the-badge&labelColor=0D0D0D&color=00FFB3)]([https://about-sutkaew.pages.dev/)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-about--sutkaew.pages.dev-00FFB3?style=for-the-badge&labelColor=0D0D0D&color=00FFB3)](https://about-sutkaew.pages.dev/)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=waektus&color=00FFB3&style=for-the-badge&label=VISITORS)](https://github.com/waektus)
 
