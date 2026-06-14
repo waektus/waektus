@@ -9,7 +9,7 @@
 ╚═╝     ╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+Backend+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Backend+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=00FFB3&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Plankton.exe...;%E2%96%BA+FullStack+Architect+%2F+Game+Systems+Engineer;%E2%96%BA+Luau+Specialist+%2F+Backend+Developer;%E2%96%BA+Grade+10+%40+Nakhonthai+School+%F0%9F%87%B9%F0%9F%87%AD;%E2%96%BA+Building+Tomorrow%27s+Systems+Today" alt="Typing SVG" />
 
 <br/>
 
@@ -31,14 +31,14 @@ alias    : "Plankton" 🐈‍⬛
 age      : 16-17 y/o
 location : Phitsanulok, Thailand 
 school   : Nakhonthai School — Grade 10
-role     : Backend Developer & Game Systems Engineer
+role     : Full Stack Developer & Game Systems Engineer
 status   : [ ONLINE ] — Building something cool rn
 ```
 
 ### `> cat mission.txt`
 
 ```
-Backend systems that don't break.
+Full Stack systems that don't break.
 Games that feel alive.
 Code that speaks for itself.
 ```
