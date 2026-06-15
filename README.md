@@ -21,9 +21,8 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC" />
-
 ### `> whoami`
+
 
 ```yaml
 name     : Sitthinon Sutkaew
@@ -42,6 +41,9 @@ Full Stack systems that don't break.
 Games that feel alive.
 Code that speaks for itself.
 ```
+<br>
+
+<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC" />
 
 <br clear="right"/>
 
@@ -49,20 +51,20 @@ Code that speaks for itself.
 
 # Tech Stack
 
-| Category | Technologies |
-|:---|:---|
-|  **Languages** | JavaScript · TypeScript · Python · Golang · C++ · Lua · PHP · Bun |
-|  **Frontend** | React · Vue.js · Next.js · Vite |
-|  **CSS / UI** | Tailwind CSS · Bootstrap · DaisyUI · MUI |
-|  **Backend** | Node.js · Express.js · Django |
-|  **Database & ORM** | MySQL · MongoDB · Firebase · PostgreSQL |
-|  **Real-time** | Firebase Realtime/Firestore · WebSocket |
-|  **DevOps & Infra** | Git · Docker · Vercel · Netlify · Nginx · Cloudflare · AWS |
-|  **Operating Systems** | Linux · Ubuntu · Windows |
-|  **Design & Tools** | Figma · Photoshop · Postman · Blender · VS Code · GitHub |
-|  **Game Engines** | Unity · Unreal Engine · Godot · Blender |
-|  **IoT & Hardware** | Arduino · ESP32 · Raspberry Pi |
-</div>
+| Category              | Technologies                                                      |
+| :-------------------- | :---------------------------------------------------------------- |
+| **Languages**         | JavaScript · TypeScript · Python · Golang · C++ · Lua · PHP · Bun |
+| **Frontend**          | React · Vue.js · Next.js · Vite                                   |
+| **CSS / UI**          | Tailwind CSS · Bootstrap · DaisyUI · MUI                          |
+| **Backend**           | Node.js · Express.js · Django                                     |
+| **Database & ORM**    | MySQL · MongoDB · Firebase · PostgreSQL                           |
+| **Real-time**         | Firebase Realtime/Firestore · WebSocket                           |
+| **DevOps & Infra**    | Git · Docker · Vercel · Netlify · Nginx · Cloudflare · AWS        |
+| **Operating Systems** | Linux · Ubuntu · Windows                                          |
+| **Design & Tools**    | Figma · Photoshop · Postman · Blender · VS Code · GitHub          |
+| **Game Engines**      | Unity · Unreal Engine · Godot · Blender                           |
+| **IoT & Hardware**    | Arduino · ESP32 · Raspberry Pi                                    |
+
 
 ---
 
