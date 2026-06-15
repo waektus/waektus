@@ -70,10 +70,10 @@ Code that speaks for itself.
 ```
 PID   PROCESS                          CPU%   STATUS
 ───────────────────────────────────────────────────────
-001   machine_learning_exploration     ████░░░░  [LEARNING]
-002   software_architecture_studies    ███░░░░░  [ONGOING]
-003   luau_advanced_scripting          █████░░░  [ACTIVE]
-004   backend_system_projects          ██████░░  [BUILDING]
+001   machine_learning_exploration     ████    [LEARNING]
+002   software_architecture_studies    ███     [ONGOING]
+003   luau_advanced_scripting          █████   [ACTIVE]
+004   backend_system_projects          ██████  [BUILDING]
 ```
 
 ---
