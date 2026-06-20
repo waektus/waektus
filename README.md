@@ -79,7 +79,7 @@ PID   PROCESS                          CPU%   STATUS
 
 ### `> cat analytics.log`
 
-<img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=waektus&show_icons=true&theme=chartreuse-dark&count_private=true&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&icon_color=00FFB3&text_color=CCCCCC" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&text_color=CCCCCC&cache_seconds=86400" width="49%" />
 <br clear="right"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waektus&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D0D0D&title_color=00FFB3&text_color=CCCCCC&cache_seconds=86400" width="49%" />
 </div>
