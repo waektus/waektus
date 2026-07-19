@@ -80,7 +80,7 @@ PID   PROCESS                          CPU%   STATUS
 ### `> cat analytics.log`
 
 <div align="center">
-  <img src="(https://github-readme-activity-graph.vercel.app/graph?username=waektus&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=waektus&theme=github" width="100%" />
 </div>
 
 ---
