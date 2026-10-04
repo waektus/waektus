@@ -15,7 +15,7 @@
 
 [![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-me.sutkaew.xyz-00FFB3?style=for-the-badge&labelColor=0D0D0D)](https://me.sutkaew.xyz)
 &nbsp;
-[![Profile Views](https://komarev.com/ghpvc/?username=waektus&color=00FFB3&style=for-the-badge&label=VISITORS)](https://github.com/waektus)
+![Profile Views](https://komarev.com/ghpvc/?username=waektus)
 
 </div>
 
