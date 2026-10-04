@@ -78,10 +78,10 @@ PID   PROCESS                          LOAD    STATUS
 
 <div align="center">
 
-[![Website](https://img.shields.io/badge/◈_WEBSITE-00FFB3?style=for-the-badge&logo=vercel&logoColor=00FFB3&labelColor=0D0D0D)](https://about-sutkaew.vercel.app)
+[![Website](https://img.shields.io/badge/◈_WEBSITE-00FFB3?style=for-the-badge&logo=vercel&logoColor=00FFB3&labelColor=0D0D0D)](https://me.sutkaew.xyz)
 [![Facebook](https://img.shields.io/badge/◈_FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D0D0D)](https://www.facebook.com/sitthinon.sutkeaw)
-[![Discord](https://img.shields.io/badge/◈_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D)](https://discord.com/users/sigmaboy402)
-[![Email](https://img.shields.io/badge/◈_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:Actcementmajor@gmail.com)
+[![Discord](https://img.shields.io/badge/◈_DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0D0D0D)](https://discord.com/users/sutkaew)
+[![Email](https://img.shields.io/badge/◈_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:plankton.sutkaew@gmail.com)
 
 </div>
 
